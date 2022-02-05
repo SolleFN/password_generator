@@ -2,7 +2,7 @@
 
 # HOW TO USE!!!!
 # 1) Download python if you don't have it yet : https://www.python.org/downloads/
-# 2) Go to cmd and type :    pip install pyperclip
+# 2) Go to cmd and type :    pip install pyperclip : ![image](https://user-images.githubusercontent.com/89339967/152645444-14b2879f-cd59-45b6-88a6-7539300f99a8.png)
 # 3) At the end press CTRL + V to paste the password.
 
 
