@@ -3,9 +3,8 @@
 # HOW TO USE!!!!
 # 1) Download python if you don't have it yet : https://www.python.org/downloads/
 # 2) Go to cmd and type :    pip install pyperclip : ![image](https://user-images.githubusercontent.com/89339967/152645444-14b2879f-cd59-45b6-88a6-7539300f99a8.png)
-# 3) Disable Anti-Virus : ![image](https://user-images.githubusercontent.com/89339967/152645551-b10056d0-0fc5-48f9-ada5-8c677309a59f.png)
-# 3) ![image](https://user-images.githubusercontent.com/89339967/152645584-dbed8c47-4639-4fb4-8d05-f6740e165e71.png) here turn off the first button , then run my program
-# 4) At the end press CTRL + V to paste the password.
+# 3) When you see this screen : ![image](https://user-images.githubusercontent.com/89339967/152647511-b3843247-3f66-4e91-8c98-f9567505e2d9.png) press the underlined text and then you will get this : ![image](https://user-images.githubusercontent.com/89339967/152647526-e3053223-4c6c-43e1-b60d-aadecacd2862.png) and then press execute
+# 4) At the end press CTRL + V to paste the password. 
 
 
 A simple password generator in python
