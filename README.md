@@ -1,5 +1,5 @@
 # password_generator
-# YOU HAVE TO TURN OFF YOUR ANTI-VIRUS TO RUN MY PROGRAMS , BECAUSE I NEED A PAID LICENSE TO SHARE MY PROGRAMS.
+# WHEN YOU RUN MY PROGRAM WINDOWS ANTI-VIRUS WILL ALERT YOU , WINDOWS ALERT YOU BECAUSE FOR IT I'M AN UNKNOW EDITOR , BECAUSE I DON'T PAID THE LICENSE FOR SOFTWARE SO STAI CHILL , IT'S NOT A VIRUS! 
 # HOW TO USE!!!!
 # 1) Download python if you don't have it yet : https://www.python.org/downloads/
 # 2) Go to cmd and type :    pip install pyperclip : ![image](https://user-images.githubusercontent.com/89339967/152645444-14b2879f-cd59-45b6-88a6-7539300f99a8.png)
